@@ -1,4 +1,5 @@
-BestArabicWebsites
-==================
+<h1>أفضل المواقع العربية</h1>
 
-Best Arabic Websites (All kinds)
+<p>عبارة عن مكتبة مرتبة لأفضل المواقع العربية. يمكن لأي شحص تحميلها و الاستفادة منها.</p>
+
+<a href="http://elhoucine.github.io/BestArabicWebsites/">المزيد...</a>
